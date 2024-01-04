@@ -14,3 +14,6 @@ Trying to remove commas and dollars signs with Pandas in Python: https://stackov
 
 Removing comma from column values in Pandas DataFrame: https://www.skytowner.com/explore/removing_comma_from_column_values_in_pandas_dataframe
 
+Plot a pie chart in Python using Matplotlib: https://www.geeksforgeeks.org/plot-a-pie-chart-in-python-using-matplotlib/
+
+Bar Plot in Matplotlib: https://www.geeksforgeeks.org/bar-plot-in-matplotlib/
