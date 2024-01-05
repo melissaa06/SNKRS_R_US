@@ -24,4 +24,3 @@ Box Plot in Python using Matplotlib: https://www.geeksforgeeks.org/box-plot-in-p
 
 Plotting Histogram in Python using Matplotlib: https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
 
-!HeatMap_SalesMean
