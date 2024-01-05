@@ -26,4 +26,4 @@ Plotting Histogram in Python using Matplotlib: https://www.geeksforgeeks.org/plo
 
 ![HeatMap_SalesMean.png](https://github.com/melissaa06/SNKRS_R_US/blob/main/HeatMap_SalesMean.png)https://github.com/melissaa06/SNKRS_R_US/blob/main/HeatMap_SalesMean.png
 
-! https://github.com/melissaa06/SNKRS_R_US/blob/main/HeatMap_AvgSales.png
+!https://github.com/melissaa06/SNKRS_R_US/blob/main/HeatMap_AvgSales.png
