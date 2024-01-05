@@ -25,6 +25,7 @@ Box Plot in Python using Matplotlib: https://www.geeksforgeeks.org/box-plot-in-p
 Plotting Histogram in Python using Matplotlib: https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
 
 How to display images in Markdown files on Github?:https://stackoverflow.com/questions/13051428/how-to-display-images-in-markdown-files-on-github
+https://github.com/jupyter/notebook/issues/3278#issuecomment-395038360
 
 ![HeatMap_SalesMean.png](https://github.com/melissaa06/SNKRS_R_US/blob/main/HeatMap_SalesMean.png)
 
