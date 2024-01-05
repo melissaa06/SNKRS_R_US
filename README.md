@@ -16,6 +16,8 @@ Removing comma from column values in Pandas DataFrame: https://www.skytowner.com
 
 Plot a pie chart in Python using Matplotlib: https://www.geeksforgeeks.org/plot-a-pie-chart-in-python-using-matplotlib/
 
+Grouped bar chart with labels: https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py
+
 Bar Plot in Matplotlib: https://www.geeksforgeeks.org/bar-plot-in-matplotlib/
 
 Box Plot in Python using Matplotlib: https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
