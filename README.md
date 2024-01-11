@@ -22,6 +22,8 @@ Bar Plot in Matplotlib: https://www.geeksforgeeks.org/bar-plot-in-matplotlib/
 
 Box Plot in Python using Matplotlib: https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
 
+Choropleth Maps in Python: https://plotly.com/python/choropleth-maps/
+
 Plotting Histogram in Python using Matplotlib: https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
 
 How to display images in Markdown files on Github?:https://stackoverflow.com/questions/13051428/how-to-display-images-in-markdown-files-on-github
