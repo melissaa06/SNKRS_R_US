@@ -1,4 +1,4 @@
-Project Title: SNKRS Я Us
+Project Title: SNKRS Я Us : https://nbviewer.org/github/melissaa06/SNKRS_R_US/blob/main/SneakerPy.ipynb
 
 Team: Lorenzo Howard, Fawn Peyton, Mellissa Avila, Sheniece Booker
 
